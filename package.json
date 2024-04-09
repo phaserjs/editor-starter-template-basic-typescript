@@ -20,10 +20,9 @@
   },
   "homepage": "https://github.com/PhaserEditor2D/starter-template-basic-typescript#readme",
   "devDependencies": {
-    "phasereditor2d-launcher": "^3.32.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.4.4"
   },
   "dependencies": {
-    "phaser": "^3.70.0"
+    "phaser": "^3.80.1"
   }
 }

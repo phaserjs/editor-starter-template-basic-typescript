@@ -64,7 +64,7 @@
             "x": 640,
             "y": 462,
             "originX": 0.5,
-            "text": "Phaser 3 + Phaser Editor 2D + TypeScript",
+            "text": "Phaser 3 + Phaser Editor v4 + TypeScript",
             "fontFamily": "arial",
             "fontSize": "3em",
             "list": [
